@@ -1,0 +1,38 @@
+Using XMLHttpRequest:
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
+
+Using the Fetch API:
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
+Getting started with React:
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
+
+Beginning our React todo list:
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning
+
+Brad Schiff 10 Days of React:
+https://www.youtube.com/playlist?list=PLpcSpRrAaOaqONih-vl45TkLRgRzELLvI
+
+Brad Schiff ToDo List Example:
+https://codepen.io/learnwebcode/pen/qBEKBwx?editors=1010
+
+Brad Traversy Numbers API XHR & Fetch:
+https://www.youtube.com/watch?v=tUE2Nic21BA
+
+React - Hello World And Files/Folders Structure
+https://www.c-sharpcorner.com/article/react-hello-world-and-filesfolders-structure/
+
+Introduction to ReactJs Project Structure:
+https://www.xenonstack.com/insights/reactjs-project-structure
+
+How to Use CodePen – A Beginner's Guide:
+https://www.freecodecamp.org/news/how-to-use-codepen/
+
+Using React on CodePen:
+https://blog.codepen.io/2014/08/26/using-react-codepen/
+
+CodePen Home ToDo: Learn How to build Apps in React.js:
+https://codepen.io/mkokes/pen/aBEmYV
+
+CodePen Home create-react-app:
+https://codepen.io/MrMaster/pen/oNYWNjr
